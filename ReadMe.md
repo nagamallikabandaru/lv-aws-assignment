@@ -1,4 +1,4 @@
-# Process Resource Monitoring Application
+# AWS ASG and instance metrics
 
 OS: Mac
 Install Python 3.8 version on local - https://www.python.org/downloads/release/python-380/ Command to ensure that python3.8 is properly installed: python3 --version
